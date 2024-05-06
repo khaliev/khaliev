@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I am Adlan, a passionate junior web developer from France<br>
-🔭 I’m currently working on ADT local tourism development project<br>🌱 I’m currently learning ReactJs, NodeJS, SQL & Computer Science (CS50 Harvard course)<br>⚡ I'm also amateur photographer
-🔭 I’m currently working on ADT local tourism development project<br>🌱 I’m currently learning ReactJs, NodeJS, SQL & Computer Science (CS50 Harvard course)<br>⚡ I'm also amateur photographer
+🌱 I’m currently learning ReactJs, NodeJS, SQL & Computer Science (CS50 Harvard course)<br>⚡ I'm also an amateur photographer
 
 
 ## 🌐 Socials:
