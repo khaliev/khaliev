@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am Adlan, a passionate web developer from France<br>
+👋 Hi, I am Adlan, a passionate web developer and simply an open-minded humain being<br>
 🌱 I’m currently learning ReactJs, NodeJS, SQL & Computer Science (CS50 Harvard course)<br>⚡ Also, I like doing some good photographs
 
 
